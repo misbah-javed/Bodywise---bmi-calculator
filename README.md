@@ -16,7 +16,7 @@ BodyWise is a Python-based BMI Calculator with a modern graphical user interface
 - CustomTkinter
 - Tkinter Canvas
 
-## Installation
+
 
 ## Installation
 
