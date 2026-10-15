@@ -18,10 +18,31 @@ BodyWise is a Python-based BMI Calculator with a modern graphical user interface
 
 ## Installation
 
-'''git clone https://github.com/misbah-javed/Bodywise---bmi-calculator.git
-cd Bodywise---bmi-calculator
-pip install -r requirements.txt
-python main.py'''
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/misbah-javed/Bodywise---bmi-calculator.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd Bodywise---bmi-calculator
+   ```
+
+3. Install the required dependency:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the application:
+
+   ```bash
+   python main.py
+   ```
 
 ## Important Note
 BMI is a screening measure, not a medical diagnosis. Adult BMI categories are used for adults aged 20 and above. Children and teenagers require age- and sex-specific BMI percentile assessment, which this version does not calculate.
